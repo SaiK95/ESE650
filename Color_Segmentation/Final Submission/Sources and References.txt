@@ -1,0 +1,5 @@
+23rd Jan 2017 - 2:43 AM - Looked up code to import images from a directory from: http://stackoverflow.com/questions/26392336/importing-images-from-a-directory-python
+24th Jan 2017 - 5:35 PM - Asked Varun Gupta about displaying mask from RoiPoly. He recommended changing getMask function. Implemented that.
+24th Jan 2017 - 9:00 PM - Discussed mask for hand labeling with Sakthi. He recommended splitting image into channels and then merging again. Implemented that.
+26th Jan 2017 - 3:00 PM - Discussed file handling issues and syntax with Anvith Ekkati, Sakthivel Sivaraman, Jorge Mendez Mendez.
+30th Jan 2017 - 5:00 PM - Implemented vectorization of prediction code as suggested by Dr. Atanasov on Piazza.
